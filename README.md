@@ -16,7 +16,7 @@ Studi segmentasi analitik berbasis *unsupervised machine learning* pada 1.000.00
 
 ---
 ## Struktur Folder & Penempatan Data
-
+```bash
 gen-z-behavioral-clustering/
 ├── data/
 │   ├── raw/
@@ -29,6 +29,7 @@ gen-z-behavioral-clustering/
 │   └── 01_eda_clustering.ipynb
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
