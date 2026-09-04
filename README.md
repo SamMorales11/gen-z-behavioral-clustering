@@ -71,7 +71,8 @@ Perdebatan mengenai dampak media sosial terhadap Gen-Z sering kali hanya berpusa
 *Keterangan Gambar: Matriks multivariat rata-rata perilaku tiap persona. 'The Late-Night Doomscroller' menempati spektrum tertinggi pada volume jam harian dan durasi sebelum tidur, berkorelasi terbalik dengan skor kesehatan mental.*
 
 ### 3. Distribusi Persona Lintas Kelompok Umur
-![Age Distribution](docs/images/age_distribution.png)
+<img width="1541" height="422" alt="Screenshot 2026-09-04 093519" src="https://github.com/user-attachments/assets/233b8fa3-5dc0-4b4a-a2e5-fbdf5a918aaf" />
+<img width="1064" height="473" alt="Screenshot 2026-09-04 093600" src="https://github.com/user-attachments/assets/5cf37b94-0373-4382-9565-0c011285b13d" />
 *Keterangan Gambar: 100% Stacked Bar Chart distribusi persona pada kelompok Adolescents (13–17), College Age (18–22), dan Young Pros (23–27). Hasil menunjukkan sebaran proporsi yang identik lintas rentang umur Gen-Z.*
 
 ### 4. Afinitas Platform & Pemetaan Lintas Negara
