@@ -72,10 +72,10 @@ Perdebatan mengenai dampak media sosial terhadap Gen-Z sering kali hanya berpusa
 
 ### 3. Distribusi Persona Lintas Kelompok Umur
 <img width="1541" height="422" alt="Screenshot 2026-09-04 093519" src="https://github.com/user-attachments/assets/233b8fa3-5dc0-4b4a-a2e5-fbdf5a918aaf" />
-<img width="1064" height="473" alt="Screenshot 2026-09-04 093600" src="https://github.com/user-attachments/assets/5cf37b94-0373-4382-9565-0c011285b13d" />
 *Keterangan Gambar: 100% Stacked Bar Chart distribusi persona pada kelompok Adolescents (13–17), College Age (18–22), dan Young Pros (23–27). Hasil menunjukkan sebaran proporsi yang identik lintas rentang umur Gen-Z.*
 
 ### 4. Afinitas Platform & Pemetaan Lintas Negara
+<img width="1064" height="473" alt="Screenshot 2026-09-04 093600" src="https://github.com/user-attachments/assets/5cf37b94-0373-4382-9565-0c011285b13d" />
 <img width="1009" height="606" alt="Screenshot 2026-09-04 093546" src="https://github.com/user-attachments/assets/9987f0fd-11ed-4dde-8237-5142f3784ef9" />
 *Keterangan Gambar: Heatmap preferensi platform utama dan segmentasi geografis 10 negara terbesar. Tidak ada platform tunggal atau negara spesifik yang memonopoli persona berisiko tinggi.*
 
