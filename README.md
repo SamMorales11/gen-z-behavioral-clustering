@@ -63,7 +63,7 @@ Perdebatan mengenai dampak media sosial terhadap Gen-Z sering kali hanya berpusa
 ## Visualisasi & Temuan Kunci
 
 ### 1. 2D UMAP Projection of Behavioral Archetypes
-![UMAP Projection](<img width="1514" height="418" alt="Screenshot 2026-09-04 093436" src="https://github.com/user-attachments/assets/f3ddd50d-cfaf-421c-bca5-ea7e5b78dae6" />)
+(<img width="1514" height="418" alt="Screenshot 2026-09-04 093436" src="https://github.com/user-attachments/assets/f3ddd50d-cfaf-421c-bca5-ea7e5b78dae6" />)
 *Keterangan Gambar: Proyeksi 2D menggunakan UMAP (50.000 sampel data). Terlihat pemisahan klaster yang terpolarisasi menjadi dua domain utama yang dipicu oleh perilaku `night_usage`, kemudian terpecah lebih lanjut berdasarkan intensitas durasi harian dan sesi konsumsi konten.*
 
 ### 2. Radar Chart Profil DNA Arketipe
