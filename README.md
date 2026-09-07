@@ -63,19 +63,20 @@ Perdebatan mengenai dampak media sosial terhadap Gen-Z sering kali hanya berpusa
 ## Visualisasi & Temuan Kunci
 
 ### 1. 2D UMAP Projection of Behavioral Archetypes
-![UMAP Projection](docs/images/umap_projection.png)
+<img width="1514" height="418" alt="Screenshot 2026-09-04 093436" src="https://github.com/user-attachments/assets/f3ddd50d-cfaf-421c-bca5-ea7e5b78dae6" />
 *Keterangan Gambar: Proyeksi 2D menggunakan UMAP (50.000 sampel data). Terlihat pemisahan klaster yang terpolarisasi menjadi dua domain utama yang dipicu oleh perilaku `night_usage`, kemudian terpecah lebih lanjut berdasarkan intensitas durasi harian dan sesi konsumsi konten.*
 
 ### 2. Radar Chart Profil DNA Arketipe
-![Radar Profile](docs/images/radar_profile.png)
+<img width="1483" height="402" alt="Screenshot 2026-09-04 093500" src="https://github.com/user-attachments/assets/a49611dd-13fc-4789-adfc-203c339b7c18" />
 *Keterangan Gambar: Matriks multivariat rata-rata perilaku tiap persona. 'The Late-Night Doomscroller' menempati spektrum tertinggi pada volume jam harian dan durasi sebelum tidur, berkorelasi terbalik dengan skor kesehatan mental.*
 
 ### 3. Distribusi Persona Lintas Kelompok Umur
-![Age Distribution](docs/images/age_distribution.png)
+<img width="1541" height="422" alt="Screenshot 2026-09-04 093519" src="https://github.com/user-attachments/assets/233b8fa3-5dc0-4b4a-a2e5-fbdf5a918aaf" />
 *Keterangan Gambar: 100% Stacked Bar Chart distribusi persona pada kelompok Adolescents (13–17), College Age (18–22), dan Young Pros (23–27). Hasil menunjukkan sebaran proporsi yang identik lintas rentang umur Gen-Z.*
 
 ### 4. Afinitas Platform & Pemetaan Lintas Negara
-![Platform & Country Distribution](docs/images/platform_affinity.png)
+<img width="1064" height="473" alt="Screenshot 2026-09-04 093600" src="https://github.com/user-attachments/assets/5cf37b94-0373-4382-9565-0c011285b13d" />
+<img width="1009" height="606" alt="Screenshot 2026-09-04 093546" src="https://github.com/user-attachments/assets/9987f0fd-11ed-4dde-8237-5142f3784ef9" />
 *Keterangan Gambar: Heatmap preferensi platform utama dan segmentasi geografis 10 negara terbesar. Tidak ada platform tunggal atau negara spesifik yang memonopoli persona berisiko tinggi.*
 
 ---
