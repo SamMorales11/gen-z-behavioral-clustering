@@ -1,3 +1,5 @@
+<img width="735" height="401" alt="quot;Annoyance Economy quot;_ en qué consiste este nueva estrategia de marketing que busca captu___" src="https://github.com/user-attachments/assets/b28f03a5-96c5-414e-accb-4e7c09720ed2" />
+
 # Gen-Z Social Media Behavioral Archetypes & Well-being Profiling
 
 Studi segmentasi analitik berbasis *unsupervised machine learning* pada 1.000.000 data pengguna Generasi Z (usia 13–27 tahun). Proyek ini memetakan arketipe perilaku digital laten tanpa label terarah (*unlabeled data*), kemudian menguji secara empiris hubungannya terhadap tingkat adiksi dan skor kesejahteraan mental (*mental well-being*).
